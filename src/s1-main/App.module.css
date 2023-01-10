@@ -1,0 +1,31 @@
+.App {
+    --header_height: 60px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.hw {
+
+}
+.hr{
+    margin: 10px;
+    color: lightgray;
+}
+
+.hwTitle {
+    margin-top: 131px;
+    margin-left: 70px;
+    font-family: 'Montserrat';
+    color: #000000;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+
+
+}
+.footer {
+    margin-top: 32px;
+}
